@@ -1,4 +1,4 @@
-module demo
+module github.com/Alan-wW/test
 
 go 1.17
 
